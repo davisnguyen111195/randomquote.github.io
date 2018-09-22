@@ -2,7 +2,7 @@
   "name": "managerbook",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://randomquote.github.io/website",
+  "homepage": "https://davisnguyen111195.github.io/randomquote.github.io",
   "dependencies": {
     "bootstrap": "^4.1.3",
     "gh-pages": "^2.0.0",
